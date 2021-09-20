@@ -1,6 +1,6 @@
 # setting up the imports required for the client
 import pygame
-#from network import Network
+from network import Network
 import pickle
 
 pygame.font.init()
